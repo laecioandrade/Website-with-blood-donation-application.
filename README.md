@@ -1,2 +1,2 @@
 # Website-with-blood-donation-application.
-Site with blood donation application developed during MaratonaDev 3.
+Web application for blood donor registration, developed at MaratonaDev 3.
